@@ -1,0 +1,1204 @@
+[
+  {
+    "incidencia": "No puedo descargar la factura de este mes en PDF.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos reenviado la factura a tu correo electrónico."
+    }
+  },
+  {
+    "incidencia": "Me habéis cobrado dos veces la cuota mensual en mi tarjeta.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Lamentamos el error; hemos tramitado el reembolso duplicado."
+    }
+  },
+  {
+    "incidencia": "Necesito actualizar el NIF y la razón social de mis facturas.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Puedes editar tus datos fiscales desde el panel de facturación."
+    }
+  },
+  {
+    "incidencia": "El pago de la renovación ha fallado aunque tengo saldo.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Revisa los límites de tu tarjeta o añade otro método de pago."
+    }
+  },
+  {
+    "incidencia": "¿Qué impuestos están incluidos en el precio del plan básico?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Todos nuestros precios muestran el IVA desglosado al pagar."
+    }
+  },
+  {
+    "incidencia": "Quiero cancelar la suscripción antes de que empiece el próximo ciclo.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos desactivado la renovación automática de tu cuenta."
+    }
+  },
+  {
+    "incidencia": "El descuento del código promocional no se aplicó en el cobro.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Estamos revisando el cupón para abonarte la diferencia."
+    }
+  },
+  {
+    "incidencia": "¿Qué día del mes se pasan los recibos domiciliados?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Los recibos se cargan el primer día hábil de cada mes."
+    }
+  },
+  {
+    "incidencia": "Me ha llegado un aviso de impago pero ya realicé la transferencia.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Envíanos el justificante para conciliar el pago de inmediato."
+    }
+  },
+  {
+    "incidencia": "Solicito la devolución del último cargo porque no uso el servicio.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos trasladado tu solicitud de reembolso al departamento de cobros."
+    }
+  },
+  {
+    "incidencia": "La factura de octubre tiene un importe superior al habitual.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Revisamos el desglose de consumo de octubre y te informamos."
+    }
+  },
+  {
+    "incidencia": "¿Puedo pagar la suscripción anual mediante transferencia bancaria?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Sí, las suscripciones anuales admiten pago por transferencia."
+    }
+  },
+  {
+    "incidencia": "Mi tarjeta ha caducado y necesito cambiarla para no perder el servicio.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Actualiza tu tarjeta en la sección de métodos de pago."
+    }
+  },
+  {
+    "incidencia": "Me han cobrado después de haber dado de baja mi suscripción.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Pedimos disculpas; procedemos a devolver el importe cobrado."
+    }
+  },
+  {
+    "incidencia": "¿Dónde puedo consultar el historial completo de mis pagos?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Encontrarás todos tus recibos en el apartado Historial de facturación."
+    }
+  },
+  {
+    "incidencia": "Necesito una factura rectificativa por un error en la dirección.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos emitido la factura rectificativa con los datos correctos."
+    }
+  },
+  {
+    "incidencia": "El sistema no me deja guardar mi nueva cuenta bancaria SEPA.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Verifica que el código IBAN no contenga espacios ni guiones."
+    }
+  },
+  {
+    "incidencia": "Quiero cambiar del plan mensual al plan anual para ahorrar.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Puedes cambiar a facturación anual desde los ajustes de tu plan."
+    }
+  },
+  {
+    "incidencia": "Se me ha bloqueado el acceso por un pago pendiente que ya aboné.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Hemos reactivado tu cuenta tras comprobar el ingreso."
+    }
+  },
+  {
+    "incidencia": "¿Ofrecéis algún descuento para estudiantes o centros educativos?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Disponemos de tarifas educativas; envíanos tu acreditación."
+    }
+  },
+  {
+    "incidencia": "No entiendo el concepto de 'ajuste por uso' en mi último recibo.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Corresponde al consumo extra de almacenamiento del mes pasado."
+    }
+  },
+  {
+    "incidencia": "La pasarela de pago se queda cargando y no finaliza la compra.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Estamos revisando la conexión con la pasarela bancaria."
+    }
+  },
+  {
+    "incidencia": "Necesito recibir las facturas en un correo distinto al de acceso.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Añade un correo alternativo de facturación en tu perfil."
+    }
+  },
+  {
+    "incidencia": "Me han aplicado el IVA a pesar de tener operador intracomunitario.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Validamos tu número VAT y ajustamos la exención fiscal."
+    }
+  },
+  {
+    "incidencia": "Quiero congelar mi suscripción durante dos meses sin perder datos.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Puedes pausar tu plan temporalmente desde la configuración."
+    }
+  },
+  {
+    "incidencia": "El banco me ha rechazado el cargo por seguridad, ¿cómo reintento?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Autoriza el comercio en tu banco y pulsa reintentar cobro."
+    }
+  },
+  {
+    "incidencia": "He pagado el plan superior pero sigo viendo las funciones del básico.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Hemos actualizado los permisos de tu suscripción manualmente."
+    }
+  },
+  {
+    "incidencia": "¿Cuánto tiempo tardan en hacer efectivo un abono en tarjeta?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Los reembolsos suelen reflejarse en un plazo de 3 a 5 días hábiles."
+    }
+  },
+  {
+    "incidencia": "La factura descargada aparece en blanco y sin datos.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos regenerado el documento PDF para que puedas descargarlo."
+    }
+  },
+  {
+    "incidencia": "Quiero añadir tres licencias más a mi suscripción de empresa.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Amplía los puestos desde el panel de administración de equipo."
+    }
+  },
+  {
+    "incidencia": "Me cobraron en dólares en lugar de euros al renovar.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos cambiado la divisa de tu cuenta a euros para futuros cobros."
+    }
+  },
+  {
+    "incidencia": "El enlace para pagar el recibo pendiente me da error de caducado.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Te enviamos un nuevo enlace de pago actualizado."
+    }
+  },
+  {
+    "incidencia": "¿Qué ocurre con mis archivos si decido cancelar el plan de pago?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Tu cuenta pasará al plan gratuito conservando tus archivos básicos."
+    }
+  },
+  {
+    "incidencia": "Necesito un presupuesto formal antes de contratar el servicio anual.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Nuestro equipo comercial te enviará una proforma hoy mismo."
+    }
+  },
+  {
+    "incidencia": "Se ha realizado un cargo no autorizado en mi tarjeta desde vuestra web.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Bloqueamos la operación e iniciamos una revisión urgente de fraude."
+    }
+  },
+  {
+    "incidencia": "No encuentro dónde introducir el código de cupón antes de pagar.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Verás la casilla de código promocional justo debajo del resumen."
+    }
+  },
+  {
+    "incidencia": "Mi empresa necesita pagar a 30 días desde la emisión de factura.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "El pago a 30 días está disponible en contratos corporativos."
+    }
+  },
+  {
+    "incidencia": "El cobro aparece pendiente en mi banco desde hace una semana.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Se trata de una retención temporal que se liberará automáticamente."
+    }
+  },
+  {
+    "incidencia": "La aplicación móvil se cierra sola nada más abrirla.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "alta",
+      "respuesta": "Estamos investigando el cierre inesperado en la última versión móvil."
+}
+},
+{
+"incidencia": "La web tarda más de veinte segundos en cargar el panel principal.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Nuestros ingenieros están optimizando la velocidad de respuesta."
+}
+},
+{
+"incidencia": "Me sale un error 500 al intentar guardar un proyecto nuevo.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Hemos detectado el fallo en el servidor y trabajamos en su arreglo."
+}
+},
+{
+"incidencia": "No consigo sincronizar los eventos con mi calendario de Google.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Desvincula el calendario y vuelve a conceder los permisos."
+}
+},
+{
+"incidencia": "¿Funciona correctamente la plataforma en navegadores como Brave?",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Sí, es compatible, aunque recomendamos desactivar bloqueadores estrictos."
+}
+},
+{
+"incidencia": "Los botones del menú inferior se cortan en pantallas pequeñas.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Corregiremos ese fallo visual en la próxima actualización de diseño."
+}
+},
+{
+"incidencia": "El sistema se queda bloqueado al exportar informes pesados a Excel.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Prueba a dividir la exportación por meses mientras solucionamos el bloqueo."
+}
+},
+{
+"incidencia": "Los correos de alerta llegan con más de cuatro horas de retraso.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Estamos vaciando la cola de notificaciones para normalizar el envío."
+}
+},
+{
+"incidencia": "El buscador interno no devuelve resultados aunque la palabra existe.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Hemos lanzado una reindexación de tu base de datos."
+}
+},
+{
+"incidencia": "No puedo subir imágenes en formato WebP al editor.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "De momento admitimos JPG y PNG; añadiremos WebP próximamente."
+}
+},
+{
+"incidencia": "La conexión con la API devuelve constantemente un error 429.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Has superado el límite de peticiones por minuto permitido."
+}
+},
+{
+"incidencia": "El modo oscuro no se guarda y vuelve al tema claro al recargar.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Borra las cookies del navegador y vuelve a seleccionar el tema."
+}
+},
+{
+"incidencia": "Se han duplicado todos los registros tras importar el archivo CSV.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Hemos restaurado una copia previa a la importación para limpiarlo."
+}
+},
+{
+"incidencia": "El audio de las videollamadas integradas se escucha entrecortado.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Comprueba tu conexión y selecciona el micrófono predeterminado."
+}
+},
+{
+"incidencia": "No me llegan las notificaciones push al teléfono Android.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Revisa que el ahorro de batería no esté restringiendo la app."
+}
+},
+{
+"incidencia": "El botón de descargar informe no hace nada cuando hago clic.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Permite las ventanas emergentes en tu navegador para iniciar la descarga."
+}
+},
+{
+"incidencia": "Me aparece un certificado de seguridad caducado al entrar al subdominio.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Estamos renovando el certificado SSL de ese servidor ahora mismo."
+}
+},
+{
+"incidencia": "¿Tenéis documentación técnica sobre cómo usar los webhooks?",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Puedes consultar toda la guía de webhooks en nuestro portal de desarrolladores."
+}
+},
+{
+"incidencia": "La vista previa de los documentos PDF se ve pixelada.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Descarga el archivo original para verlo a máxima resolución."
+}
+},
+{
+"incidencia": "El sistema no reconoce mi cámara web al iniciar la verificación.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Asegúrate de que ninguna otra aplicación esté usando la cámara."
+}
+},
+{
+"incidencia": "He perdido los cambios no guardados tras una caída de conexión.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Revisamos el autoguardado para intentar recuperar el borrador."
+}
+},
+{
+"incidencia": "La integración con Slack ha dejado de enviar avisos esta mañana.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Vuelve a autorizar la aplicación de Slack desde el menú de integraciones."
+}
+},
+{
+"incidencia": "¿Cuál es el tamaño máximo permitido para los archivos adjuntos?",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "El límite actual es de 50 MB por archivo adjunto."
+}
+},
+{
+"incidencia": "El panel de estadísticas muestra todos los gráficos a cero.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Estamos restableciendo el servicio de métricas en tiempo real."
+}
+},
+{
+"incidencia": "La aplicación de escritorio consume demasiada memoria RAM.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Reinicia la aplicación y actualiza a la versión 4.2 que corrige el consumo."
+}
+},
+{
+"incidencia": "No puedo arrastrar y soltar tareas en el tablero Kanban.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Prueba a desactivar extensiones del navegador que interfieran con el ratón."
+}
+},
+{
+"incidencia": "El texto de los comentarios no respeta los saltos de línea.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Tomamos nota para mejorar el formateo de texto en comentarios."
+}
+},
+{
+"incidencia": "Al filtrar por fechas me muestra resultados del año pasado.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Asegúrate de seleccionar tanto la fecha de inicio como la de fin."
+}
+},
+{
+"incidencia": "La app se queda en una pantalla blanca tras actualizarla hoy.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Limpia la caché de la aplicación desde los ajustes del teléfono."
+}
+},
+{
+"incidencia": "¿Es posible conectar vuestra herramienta mediante Zapier?",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Sí, contamos con una integración oficial verificada en Zapier."
+}
+},
+{
+"incidencia": "Los enlaces compartidos públicamente piden contraseña cuando no deberían.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Desactiva la opción de acceso restringido en los ajustes del enlace."
+}
+},
+{
+"incidencia": "El generador de códigos QR crea imágenes rotas.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "media",
+"respuesta": "Hemos corregido el servicio de generación de imágenes QR."
+}
+},
+{
+"incidencia": "La hora registrada en las actividades no coincide con mi zona horaria.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Ajusta tu huso horario en las preferencias regionales de tu cuenta."
+}
+},
+{
+"incidencia": "El servidor devuelve error 503 de servicio no disponible.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Estamos resolviendo una caída temporal en nuestros servidores principales."
+}
+},
+{
+"incidencia": "No consigo reproducir los vídeos tutoriales dentro de la plataforma.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Comprueba que tu red no bloquee el reproductor multimedia externo."
+}
+},
+{
+"incidencia": "Al copiar y pegar desde Word se desconfigura todo el formato.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Usa la opción 'Pegar sin formato' con Ctrl+Shift+V."
+}
+},
+{
+"incidencia": "Las automatizaciones configuradas no se ejecutaron anoche.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "alta",
+"respuesta": "Hemos reiniciado el motor de tareas programadas para procesarlas."
+}
+},
+{
+"incidencia": "El teclado en pantalla tapa el campo de escritura en iOS.",
+"salida": {
+"categoria": "soporte_tecnico",
+"prioridad": "baja",
+"respuesta": "Reportamos este fallo de interfaz al equipo de desarrollo iOS."
+}
+},
+{
+"incidencia": "He olvidado mi contraseña y no recibo el correo para restablecerla.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Hemos enviado manualmente un enlace de recuperación a tu correo."
+}
+},
+{
+"incidencia": "Quiero cambiar la dirección de correo vinculada a mi usuario.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Puedes modificar tu email desde Seguridad > Datos de acceso."
+}
+},
+{
+"incidencia": "Mi cuenta se ha bloqueado tras introducir mal la clave varias veces.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Hemos levantado el bloqueo temporal; ya puedes entrar."
+}
+},
+{
+"incidencia": "Deseo eliminar mi cuenta permanentemente y borrar mis datos.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Hemos iniciado el proceso de borrado definitivo según el RGPD."
+}
+},
+{
+"incidencia": "¿Cómo activo la autenticación en dos pasos con Google Authenticator?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Escanea el código QR en la pestaña Seguridad de tu perfil."
+}
+},
+{
+"incidencia": "No tengo permisos para invitar a nuevos compañeros al espacio de trabajo.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Solicita al administrador de tu equipo que te asigne rol de gestión."
+}
+},
+{
+"incidencia": "Me gustaría cambiar el idioma de toda la plataforma a portugués.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Selecciona portugués en el selector de idioma de tu perfil."
+}
+},
+{
+"incidencia": "He recibido un aviso de inicio de sesión desde un país extranjero.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Cambia tu contraseña urgente y cierra todas las sesiones abiertas."
+}
+},
+{
+"incidencia": "Perdí el móvil donde tenía la app de códigos de doble factor.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Verificamos tu identidad para desactivar temporalmente el 2FA."
+}
+},
+{
+"incidencia": "Quiero cambiar mi nombre de usuario público en la comunidad.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Edita tu alias público desde la configuración de tu perfil."
+}
+},
+{
+"incidencia": "Mi cuenta aparece como suspendida sin haber recibido explicación.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Revisamos el motivo de la suspensión con el equipo de cumplimiento."
+}
+},
+{
+"incidencia": "¿Puedo fusionar dos cuentas diferentes en una sola?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "No es posible fusionarlas automáticamente, pero puedes exportar tus datos."
+}
+},
+{
+"incidencia": "No quiero recibir más correos comerciales ni boletines semanales.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Hemos dado de baja tu correo de las comunicaciones promocionales."
+}
+},
+{
+"incidencia": "Al intentar registrarme me dice que mi correo ya está en uso.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Ya tienes una cuenta creada; usa la opción de recuperar contraseña."
+}
+},
+{
+"incidencia": "Necesito transferir la propiedad de la cuenta a otro compañero.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Puedes ceder la propiedad desde Ajustes > Administración de equipo."
+}
+},
+{
+"incidencia": "No consigo subir una foto de perfil nueva, da error de formato.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Asegúrate de que la imagen sea cuadrada y pese menos de 2 MB."
+}
+},
+{
+"incidencia": "He cambiado de empresa y necesito desvincular mi cuenta personal.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Sal del espacio de trabajo actual desde el menú superior izquierdo."
+}
+},
+{
+"incidencia": "El enlace de verificación de cuenta me dice que ya ha expirado.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Te enviamos un nuevo correo de activación válido por 24 horas."
+}
+},
+{
+"incidencia": "¿Cómo puedo descargar una copia de toda mi información personal?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Solicita el archivo completo en Privacidad > Exportar mis datos."
+}
+},
+{
+"incidencia": "El inicio de sesión con cuenta de Google me da error de autorización.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Estamos revisando la conexión OAuth con los servidores de Google."
+}
+},
+{
+"incidencia": "Quiero cambiar el rol de un miembro del equipo a solo lectura.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Modifica sus permisos en la lista de usuarios activos."
+}
+},
+{
+"incidencia": "Alguien está intentando acceder a mi cuenta continuamente.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Hemos reforzado la seguridad de tu cuenta y bloqueado las IPs sospechosas."
+}
+},
+{
+"incidencia": "¿Cuántos dispositivos pueden tener la sesión iniciada a la vez?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Puedes mantener hasta cinco sesiones simultáneas activas."
+}
+},
+{
+"incidencia": "El correo de confirmación de registro nunca llegó a mi bandeja.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Revisa la carpeta de spam o añádenos a tus contactos seguros."
+}
+},
+{
+"incidencia": "Necesito actualizar mi número de teléfono para los códigos SMS.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Cambia tu teléfono verificado en la sección de seguridad."
+}
+},
+{
+"incidencia": "Mi perfil sigue mostrando mi antiguo cargo a pesar de haberlo guardado.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Cierra sesión y vuelve a entrar para refrescar los datos del perfil."
+}
+},
+{
+"incidencia": "¿Es obligatorio configurar la verificación en dos pasos?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "No es obligatoria para cuentas individuales, pero sí muy recomendable."
+}
+},
+{
+"incidencia": "Se ha cerrado mi sesión automáticamente mientras estaba trabajando.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Por seguridad, las sesiones caducan tras 12 horas de inactividad."
+}
+},
+{
+"incidencia": "Quiero crear una cuenta secundaria para pruebas sin mezclar datos.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Puedes registrarte con un alias de correo para entorno de pruebas."
+}
+},
+{
+"incidencia": "No encuentro la opción para cerrar sesión en todos los dispositivos.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Encontrarás ese botón al final de la pestaña Seguridad."
+}
+},
+{
+"incidencia": "Mi cuenta gratuita tiene limitaciones que antes no tenía.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Consulta las condiciones actualizadas del plan básico en nuestra web."
+}
+},
+{
+"incidencia": "He borrado por error un usuario de mi equipo y necesito recuperarlo.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Podemos restaurar el usuario y sus permisos en las próximas 24 horas."
+}
+},
+{
+"incidencia": "¿Cómo cambio mi contraseña actual si sí la recuerdo?",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Introduce tu clave actual y la nueva en Ajustes > Cambiar contraseña."
+}
+},
+{
+"incidencia": "El sistema rechaza mi nueva contraseña diciendo que es poco segura.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Incluye al menos 10 caracteres, una mayúscula, un número y un símbolo."
+}
+},
+{
+"incidencia": "No puedo acceder con mi cuenta corporativa mediante SSO.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "alta",
+"respuesta": "Comprueba con tu departamento IT que el certificado SAML esté activo."
+}
+},
+{
+"incidencia": "Quiero ocultar mi perfil para que no aparezca en el directorio público.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "baja",
+"respuesta": "Activa el modo privado en las opciones de visibilidad."
+}
+},
+{
+"incidencia": "Recibo notificaciones de una cuenta antigua que creía cerrada.",
+"salida": {
+"categoria": "cuenta",
+"prioridad": "media",
+"respuesta": "Confirmamos que esa cuenta antigua ha sido desactivada por completo."
+}
+},
+{
+"incidencia": "Mi pedido lleva cinco días de retraso sobre la fecha estimada.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Hemos abierto una reclamación urgente con la empresa de mensajería."
+}
+},
+{
+"incidencia": "La caja del paquete llegó rota y aplastada por una esquina.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Lamentamos el estado del paquete; dinos si el producto está dañado."
+}
+},
+{
+"incidencia": "Me habéis enviado un modelo diferente al que compré en la web.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Gestionamos la recogida gratuita y el envío del artículo correcto."
+}
+},
+{
+"incidencia": "Necesito cambiar la dirección de entrega antes de que salga el envío.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Hemos modificado la dirección de destino en la orden de almacén."
+}
+},
+{
+"incidencia": "El código de seguimiento no muestra actualizaciones desde hace tres días.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Estamos consultando con el transportista la ubicación del paquete."
+}
+},
+{
+"incidencia": "¿Hacéis entregas en sábados o solo días laborables?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Las entregas estándar se realizan de lunes a viernes laborables."
+}
+},
+{
+"incidencia": "El seguimiento pone entregado pero no he recibido ningún paquete.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Solicitamos el albarán firmado al repartidor para localizar la entrega."
+}
+},
+{
+"incidencia": "¿Cuál es el importe mínimo para tener envío gratuito a península?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Los pedidos superiores a 50 euros tienen envío estándar gratuito."
+}
+},
+{
+"incidencia": "El repartidor dice que no había nadie en casa pero estuve todo el día.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Hemos concertado un segundo intento de entrega para mañana."
+}
+},
+{
+"incidencia": "Quiero recoger mi paquete en un punto de conveniencia en lugar de en casa.",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Puedes seleccionar un punto de recogida desde el enlace del transportista."
+}
+},
+{
+"incidencia": "Me faltan dos artículos dentro del paquete que acabo de abrir.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Sentimos el error de preparación; enviamos hoy mismo los artículos faltantes."
+}
+},
+{
+"incidencia": "¿Realizáis envíos internacionales a países fuera de la Unión Europea?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Sí, realizamos envíos internacionales; los aranceles corren a cargo del cliente."
+}
+},
+{
+"incidencia": "El paquete ha sido devuelto a vuestro almacén por dirección incompleta.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Confírmanos tu dirección completa para volver a expedir el pedido."
+}
+},
+{
+"incidencia": "Necesito recibir el pedido con urgencia antes del viernes.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Hemos priorizado tu envío con servicio exprés 24 horas."
+}
+},
+{
+"incidencia": "El producto llegó roto por dentro debido a falta de protección.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Tramitamos el envío de una unidad nueva sin coste alguno."
+}
+},
+{
+"incidencia": "¿Puedo elegir una franja horaria concreta para la entrega?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "La mensajería te enviará un SMS para elegir mañana o tarde."
+}
+},
+{
+"incidencia": "No he recibido el correo con el número de seguimiento de mi compra.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Te facilitamos tu código de seguimiento: ES982341200."
+}
+},
+{
+"incidencia": "El envío aparece retenido en aduanas desde hace una semana.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Hemos enviado la factura comercial a aduanas para desbloquearlo."
+}
+},
+{
+"incidencia": "Quiero cancelar el envío porque ya no necesito el producto.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Si aún no ha salido de almacén, detenemos el envío y reembolsamos."
+}
+},
+{
+"incidencia": "¿Cuánto tardan los envíos estándar a Baleares y Canarias?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "El plazo estimado es de 3 a 5 días laborables a islas."
+}
+},
+{
+"incidencia": "El transportista me pide pagar un importe extra al entregar el paquete.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "No abones nada; los portes ya están pagados y lo aclaramos con la agencia."
+}
+},
+{
+"incidencia": "He recibido un paquete que no es mío con mi etiqueta pegada.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Disculpa la confusión de etiquetado; coordinamos el cambio inmediato."
+}
+},
+{
+"incidencia": "¿Se pueden enviar pedidos a apartados de correos?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Por seguridad de firma, no realizamos entregas en apartados de correos."
+}
+},
+{
+"incidencia": "El paquete lleva dos días en reparto pero nunca llega a mi domicilio.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Contactamos con la delegación local para asegurar la entrega hoy."
+}
+},
+{
+"incidencia": "Quiero añadir instrucciones para el repartidor como el código del portal.",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Hemos añadido las notas de entrega a la ficha del envío."
+}
+},
+{
+"incidencia": "El embalaje estaba abierto y precintado de nuevo con cinta de la agencia.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Verifica el contenido y envíanos fotos para abrir incidencia de transporte."
+}
+},
+{
+"incidencia": "¿Con qué empresas de mensajería trabajáis habitualmente?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Trabajamos principalmente con Correos Express, SEUR y DHL."
+}
+},
+{
+"incidencia": "Mi pedido se dividió en dos paquetes y solo me ha llegado uno.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "El segundo bulto viaja separado y llegará en las próximas 24 horas."
+}
+},
+{
+"incidencia": "Necesito cambiar el teléfono de contacto que aparece en la etiqueta.",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Hemos actualizado tu teléfono en el sistema de la mensajería."
+}
+},
+{
+"incidencia": "El estado del envío marca 'incidencia en tránsito' en la web.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Estamos averiguando con el transportista el motivo del retraso."
+}
+},
+{
+"incidencia": "¿Puedo hacer seguimiento del pedido sin haber creado una cuenta?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Sí, usa tu número de pedido y correo en nuestra sección de seguimiento."
+}
+},
+{
+"incidencia": "El mensajero dejó el paquete en el buzón exterior y ha llovido.",
+"salida": {
+"categoria": "envios",
+"prioridad": "alta",
+"respuesta": "Si el producto ha sufrido daños por agua, te enviamos un reemplazo."
+}
+},
+{
+"incidencia": "Quiero programar la entrega para la semana que viene porque estoy de viaje.",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "Hemos solicitado a la agencia que retenga la entrega hasta el lunes."
+}
+},
+{
+"incidencia": "El pedido sigue en estado 'preparando' desde hace cuatro días.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Disculpa la demora en almacén; tu pedido sale hoy mismo."
+}
+},
+{
+"incidencia": "¿Qué ocurre si no estoy en casa en ninguno de los intentos de entrega?",
+"salida": {
+"categoria": "envios",
+"prioridad": "baja",
+"respuesta": "El paquete quedará depositado 7 días en la oficina más cercana."
+}
+},
+{
+"incidencia": "Me han cobrado gastos de envío cuando mi compra superaba el mínimo.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Revisamos el cálculo del carrito y te devolvemos los gastos de envío."
+}
+},
+{
+"incidencia": "El paquete llegó mojado y la etiqueta era casi ilegible.",
+"salida": {
+"categoria": "envios",
+"prioridad": "media",
+"respuesta": "Confírmanos si el artículo interior está intacto o necesita cambio."
+}
+}
+]
+
+

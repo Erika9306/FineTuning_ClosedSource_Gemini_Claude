@@ -1,0 +1,1086 @@
+{
+  "entrenamiento": [
+    {
+      "linea_jsonl": 1,
+      "id_original": "train_001",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 2,
+      "id_original": "train_002",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 3,
+      "id_original": "train_003",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 4,
+      "id_original": "train_004",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 5,
+      "id_original": "train_005",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 6,
+      "id_original": "train_006",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 7,
+      "id_original": "train_007",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 8,
+      "id_original": "train_008",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 9,
+      "id_original": "train_009",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 10,
+      "id_original": "train_010",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 11,
+      "id_original": "train_011",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 12,
+      "id_original": "train_012",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 13,
+      "id_original": "train_013",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 14,
+      "id_original": "train_014",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 15,
+      "id_original": "train_015",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 16,
+      "id_original": "train_016",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 17,
+      "id_original": "train_017",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 18,
+      "id_original": "train_018",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 19,
+      "id_original": "train_019",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 20,
+      "id_original": "train_020",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 21,
+      "id_original": "train_021",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 22,
+      "id_original": "train_022",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 23,
+      "id_original": "train_023",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 24,
+      "id_original": "train_024",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 25,
+      "id_original": "train_025",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 26,
+      "id_original": "train_026",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 27,
+      "id_original": "train_027",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 28,
+      "id_original": "train_028",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 29,
+      "id_original": "train_029",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 30,
+      "id_original": "train_030",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 31,
+      "id_original": "train_031",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 32,
+      "id_original": "train_032",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 33,
+      "id_original": "train_033",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 34,
+      "id_original": "train_034",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 35,
+      "id_original": "train_035",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 36,
+      "id_original": "train_036",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 37,
+      "id_original": "train_037",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 38,
+      "id_original": "train_038",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 39,
+      "id_original": "train_039",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 40,
+      "id_original": "train_040",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 41,
+      "id_original": "train_041",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 42,
+      "id_original": "train_042",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 43,
+      "id_original": "train_043",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 44,
+      "id_original": "train_044",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 45,
+      "id_original": "train_045",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 46,
+      "id_original": "train_046",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 47,
+      "id_original": "train_047",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 48,
+      "id_original": "train_048",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 49,
+      "id_original": "train_049",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 50,
+      "id_original": "train_050",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 51,
+      "id_original": "train_051",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 52,
+      "id_original": "train_052",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 53,
+      "id_original": "train_053",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 54,
+      "id_original": "train_054",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 55,
+      "id_original": "train_055",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 56,
+      "id_original": "train_056",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 57,
+      "id_original": "train_057",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 58,
+      "id_original": "train_058",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 59,
+      "id_original": "train_059",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 60,
+      "id_original": "train_060",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 61,
+      "id_original": "train_061",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 62,
+      "id_original": "train_062",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 63,
+      "id_original": "train_063",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 64,
+      "id_original": "train_064",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 65,
+      "id_original": "train_065",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 66,
+      "id_original": "train_066",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 67,
+      "id_original": "train_067",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 68,
+      "id_original": "train_068",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 69,
+      "id_original": "train_069",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 70,
+      "id_original": "train_070",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 71,
+      "id_original": "train_071",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 72,
+      "id_original": "train_072",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 73,
+      "id_original": "train_073",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 74,
+      "id_original": "train_074",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 75,
+      "id_original": "train_075",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 76,
+      "id_original": "train_076",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 77,
+      "id_original": "train_077",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 78,
+      "id_original": "train_078",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 79,
+      "id_original": "train_079",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 80,
+      "id_original": "train_080",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 81,
+      "id_original": "train_081",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 82,
+      "id_original": "train_082",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 83,
+      "id_original": "train_083",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 84,
+      "id_original": "train_084",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 85,
+      "id_original": "train_085",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 86,
+      "id_original": "train_086",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 87,
+      "id_original": "train_087",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 88,
+      "id_original": "train_088",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 89,
+      "id_original": "train_089",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 90,
+      "id_original": "train_090",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 91,
+      "id_original": "train_091",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 92,
+      "id_original": "train_092",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 93,
+      "id_original": "train_093",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 94,
+      "id_original": "train_094",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 95,
+      "id_original": "train_095",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 96,
+      "id_original": "train_096",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 97,
+      "id_original": "train_097",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 98,
+      "id_original": "train_098",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 99,
+      "id_original": "train_099",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 100,
+      "id_original": "train_100",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 101,
+      "id_original": "train_101",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 102,
+      "id_original": "train_102",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 103,
+      "id_original": "train_103",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 104,
+      "id_original": "train_104",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 105,
+      "id_original": "train_105",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 106,
+      "id_original": "train_106",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 107,
+      "id_original": "train_107",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 108,
+      "id_original": "train_108",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 109,
+      "id_original": "train_109",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 110,
+      "id_original": "train_110",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 111,
+      "id_original": "train_111",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 112,
+      "id_original": "train_112",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 113,
+      "id_original": "train_113",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 114,
+      "id_original": "train_114",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 115,
+      "id_original": "train_115",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 116,
+      "id_original": "train_116",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 117,
+      "id_original": "train_117",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 118,
+      "id_original": "train_118",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 119,
+      "id_original": "train_119",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 120,
+      "id_original": "train_120",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 121,
+      "id_original": "train_121",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 122,
+      "id_original": "train_122",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 123,
+      "id_original": "train_123",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 124,
+      "id_original": "train_124",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 125,
+      "id_original": "train_125",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 126,
+      "id_original": "train_126",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 127,
+      "id_original": "train_127",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 128,
+      "id_original": "train_128",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 129,
+      "id_original": "train_129",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 130,
+      "id_original": "train_130",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 131,
+      "id_original": "train_131",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 132,
+      "id_original": "train_132",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 133,
+      "id_original": "train_133",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 134,
+      "id_original": "train_134",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 135,
+      "id_original": "train_135",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 136,
+      "id_original": "train_136",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 137,
+      "id_original": "train_137",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 138,
+      "id_original": "train_138",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 139,
+      "id_original": "train_139",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 140,
+      "id_original": "train_140",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 141,
+      "id_original": "train_141",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 142,
+      "id_original": "train_142",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 143,
+      "id_original": "train_143",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 144,
+      "id_original": "train_144",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 145,
+      "id_original": "train_145",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 146,
+      "id_original": "train_146",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 147,
+      "id_original": "train_147",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 148,
+      "id_original": "train_148",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 149,
+      "id_original": "train_149",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 150,
+      "id_original": "train_150",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    }
+  ],
+  "validacion": [
+    {
+      "linea_jsonl": 1,
+      "id_original": "val_001",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 2,
+      "id_original": "val_002",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 3,
+      "id_original": "val_003",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 4,
+      "id_original": "val_004",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 5,
+      "id_original": "val_005",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 6,
+      "id_original": "val_006",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 7,
+      "id_original": "val_007",
+      "categoria_esperada": "facturacion",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 8,
+      "id_original": "val_008",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 9,
+      "id_original": "val_009",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 10,
+      "id_original": "val_010",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 11,
+      "id_original": "val_011",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 12,
+      "id_original": "val_012",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 13,
+      "id_original": "val_013",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 14,
+      "id_original": "val_014",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 15,
+      "id_original": "val_015",
+      "categoria_esperada": "soporte_tecnico",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 16,
+      "id_original": "val_016",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 17,
+      "id_original": "val_017",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 18,
+      "id_original": "val_018",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 19,
+      "id_original": "val_019",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 20,
+      "id_original": "val_020",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 21,
+      "id_original": "val_021",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 22,
+      "id_original": "val_022",
+      "categoria_esperada": "cuenta",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 23,
+      "id_original": "val_023",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 24,
+      "id_original": "val_024",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 25,
+      "id_original": "val_025",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 26,
+      "id_original": "val_026",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 27,
+      "id_original": "val_027",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "alta"
+    },
+    {
+      "linea_jsonl": 28,
+      "id_original": "val_028",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    },
+    {
+      "linea_jsonl": 29,
+      "id_original": "val_029",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "media"
+    },
+    {
+      "linea_jsonl": 30,
+      "id_original": "val_030",
+      "categoria_esperada": "envios",
+      "prioridad_esperada": "baja"
+    }
+  ]
+}

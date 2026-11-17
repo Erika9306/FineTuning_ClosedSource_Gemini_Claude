@@ -1,0 +1,8 @@
+{
+  "estado": "JOB_STATE_SUCCEEDED",
+  "region_entrenamiento": "europe-west4",
+  "modelo_base": "gemini-3.1-flash-lite",
+  "trabajo_tuning_id": "projects/603158865321/locations/europe-west4/tuningJobs/1561025654940499968",
+  "modelo_ajustado_endpoint": "projects/603158865321/locations/eu/endpoints/886223964173500416",
+  "modelo_ajustado_nombre": "projects/603158865321/locations/eu/models/2717077950187962368@1"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "incidencia": "El cobro de este mes incluye un recargo por demora que no corresponde.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Hemos anulado el recargo por error y actualizado el importe de tu factura."
+    }
+  },
+  {
+    "incidencia": "¿Puedo dividir el pago de la licencia anual en dos plazos semestrales?",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "El pago fraccionado solo está disponible en contratos de más de diez licencias."
+    }
+  },
+  {
+    "incidencia": "No aparece el número de pedido en la factura que me habéis enviado.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Hemos añadido la referencia de tu orden de compra en el documento actualizado."
+    }
+  },
+  {
+    "incidencia": "Quiero saber qué comisión aplicáis por pagar con PayPal.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "No aplicamos ninguna comisión adicional por utilizar PayPal como método de pago."
+    }
+  },
+  {
+    "incidencia": "Me han cobrado el plan de equipo cuando solo contraté el individual.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "alta",
+      "respuesta": "Corregimos tu suscripción al plan individual y reembolsamos la diferencia hoy."
+    }
+  },
+  {
+    "incidencia": "Necesito que las facturas se emitan a nombre de mi gestoría.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "media",
+      "respuesta": "Modifica el titular fiscal en Facturación > Datos de empresa para próximos recibos."
+    }
+  },
+  {
+    "incidencia": "El justificante de pago no muestra el desglose de retenciones aplicadas.",
+    "salida": {
+      "categoria": "facturacion",
+      "prioridad": "baja",
+      "respuesta": "Descarga el certificado fiscal detallado desde el apartado de documentos legales."
+    }
+  },
+  {
+    "incidencia": "Al pulsar en guardar cambios la pantalla se queda en blanco y no guarda nada.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "alta",
+      "respuesta": "Estamos solucionando un fallo en el guardado de formularios en la versión web."
+    }
+  },
+  {
+    "incidencia": "Los archivos adjuntos que descargo tienen caracteres raros en el nombre.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "baja",
+      "respuesta": "Evita usar tildes o símbolos especiales al nombrar archivos antes de subirlos."
+    }
+  },
+  {
+    "incidencia": "La aplicación de iPad no gira la pantalla cuando lo pongo en horizontal.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "baja",
+      "respuesta": "Reportamos este ajuste de orientación al equipo de desarrollo para tabletas."
+    }
+  },
+  {
+    "incidencia": "El webhook de nuevos pedidos está enviando cada evento tres veces.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "alta",
+      "respuesta": "Hemos corregido los reintentos duplicados en la cola de eventos de la API."
+    }
+  },
+  {
+    "incidencia": "No puedo importar mis contactos desde un archivo vCard.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "media",
+      "respuesta": "Convierte el archivo a formato CSV estándar para importarlo sin errores."
+    }
+  },
+  {
+    "incidencia": "El contador de caracteres muestra un límite distinto al que permite guardar.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "baja",
+      "respuesta": "Ajustaremos la validación visual del campo en la próxima revisión menor."
+    }
+  },
+  {
+    "incidencia": "La conexión por FTP rechaza mis credenciales recién generadas.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "media",
+      "respuesta": "Asegúrate de usar el protocolo SFTP en el puerto 22 con las nuevas claves."
+    }
+  },
+  {
+    "incidencia": "Las gráficas semanales no incluyen los datos registrados durante el domingo.",
+    "salida": {
+      "categoria": "soporte_tecnico",
+      "prioridad": "media",
+      "respuesta": "Hemos corregido el filtro de cierre semanal para incluir el domingo completo."
+    }
+  },
+  {
+    "incidencia": "Quiero cambiar mi correo electrónico pero me pide un código del antiguo que ya no uso.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "alta",
+      "respuesta": "Verificamos tu identidad manualmente para actualizar tu correo de acceso."
+    }
+  },
+  {
+    "incidencia": "¿Cómo puedo ver el historial de direcciones IP desde las que he entrado?",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "baja",
+      "respuesta": "Consulta el registro de actividad reciente en Seguridad > Historial de acceso."
+    }
+  },
+  {
+    "incidencia": "Mi cuenta de administrador ha perdido los permisos para borrar proyectos.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "alta",
+      "respuesta": "Hemos restaurado tus privilegios completos de propietario en el espacio."
+    }
+  },
+  {
+    "incidencia": "No quiero que mi nombre real aparezca en los informes compartidos.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "baja",
+      "respuesta": "Configura un nombre de visualización alternativo en los ajustes de tu perfil."
+    }
+  },
+  {
+    "incidencia": "El sistema me obliga a cambiar la contraseña cada mes y quiero desactivarlo.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "baja",
+      "respuesta": "La caducidad periódica viene fijada por la política de seguridad de tu empresa."
+    }
+  },
+  {
+    "incidencia": "He recibido un correo diciendo que mi cuenta será borrada por inactividad.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "media",
+      "respuesta": "Basta con iniciar sesión hoy mismo para mantener tu cuenta activa."
+    }
+  },
+  {
+    "incidencia": "No puedo vincular mi cuenta con el inicio de sesión de Microsoft.",
+    "salida": {
+      "categoria": "cuenta",
+      "prioridad": "media",
+      "respuesta": "Comprueba que el correo de Microsoft coincida exactamente con el de tu perfil."
+    }
+  },
+  {
+    "incidencia": "El paquete ha llegado con el precinto de seguridad roto y el interior vacío.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "alta",
+      "respuesta": "Abrimos reclamación urgente por sustracción en tránsito y reponemos tu pedido."
+    }
+  },
+  {
+    "incidencia": "Quiero saber si puedo recoger mi pedido directamente en vuestro almacén.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "baja",
+      "respuesta": "No disponemos de recogida en almacén; todos los pedidos se envían por mensajería."
+    }
+  },
+  {
+    "incidencia": "La empresa de transporte me indica que el paquete se ha extraviado en tránsito.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "alta",
+      "respuesta": "Enviamos hoy mismo una nueva expedición urgente sin esperar al cierre del expediente."
+    }
+  },
+  {
+    "incidencia": "Necesito añadir un segundo teléfono de contacto para el repartidor.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "baja",
+      "respuesta": "Hemos incluido el teléfono alternativo en las observaciones de entrega."
+    }
+  },
+  {
+    "incidencia": "El seguimiento indica dirección incorrecta aunque los datos del pedido están bien.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "media",
+      "respuesta": "Confirmamos tu dirección completa con la delegación de reparto para entregar mañana."
+    }
+  },
+  {
+    "incidencia": "He recibido solo tres unidades cuando en mi pedido compré cinco.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "alta",
+      "respuesta": "Disculpa el error de conteo; expedimos hoy las dos unidades pendientes."
+    }
+  },
+  {
+    "incidencia": "¿Cuánto tiempo guarda la mensajería el paquete si pido entrega en oficina?",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "baja",
+      "respuesta": "Dispones de 10 días naturales para recogerlo presentando tu documento de identidad."
+    }
+  },
+  {
+    "incidencia": "El paquete lleva tres días retenido en la plataforma de destino sin salir a reparto.",
+    "salida": {
+      "categoria": "envios",
+      "prioridad": "media",
+      "respuesta": "Hemos solicitado a la agencia que priorice el reparto en la ruta de mañana."
+    }
+  }
+]
